@@ -1,13 +1,13 @@
 [
   {
     "remote":      "github",
-    "repository":  "xiaomi-sdm660/android_device_xiaomi_sdm660-common",
-    "target_path": "device/xiaomi/sdm660-common"
-    "branch":      "havoc"
+    "repository":  "AkshayKakatkar/android_device_xiaomi_sdm660-common",
+    "target_path": "device/xiaomi/sdm660-common",
+    "branch":      "pixys"
   },
   {
     "remote":      "github",
-    "repository":  "xiaomi-sdm660/android_kernel_xiaomi_sdm660",
+    "repository":  "AkshayKakatkar/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
     "branch":      "master"
   },
@@ -15,7 +15,7 @@
     "remote":      "github",
     "repository":  "xiaomi-sdm660/android_vendor_xiaomi_wayne",
     "target_path": "vendor/xiaomi/wayne",
-    "branch":      "master"
+    "branch":      "master2"
   },
   {
     "remote":      "los",
@@ -25,7 +25,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "xiaomi-sdm660/android_vendor_xiaomi_Miuicamera",
+    "repository":  "Manish4586/android_vendor_xiaomi_Miuicamera",
     "target_path": "vendor/xiaomi/MiuiCamera",
     "branch":      "master"
   }
